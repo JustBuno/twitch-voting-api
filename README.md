@@ -1,11 +1,11 @@
-# Twitch Voting API
+# Twitch Voting Platform
 
 This is a platform I've developed for Twitch Streamers where viewers can vote on what games to stream next or claim giveaways. This project uses the following integrations: 
 - Twitch API for user authentication
 - StreamElements API to keep track of points that can be used on the giveaways and to cast a super vote
 - Steam API to fetch game data
 
-Below is a step-by-step guide with everything you need to configure, build and deploy this app for your own channel. I also made this [video](https://youtu.be/ykR2S6QsDOI "How to Deploy Twitch Voting API") for visual aid. The video was heavily edited to make it as short as possible so don't be surprised by how fast I went through some steps. It is completely normal for some steps to take up to a minute or two despite only taking a few seconds in the video.
+Below is a step-by-step guide with everything you need to configure, build and deploy this app for your own channel. I also made this [video](https://youtu.be/ykR2S6QsDOI "How to Deploy Twitch Voting Platform") for visual aid. The video was heavily edited to make it as short as possible so don't be surprised by how fast I went through some steps. It is completely normal for some steps to take up to a minute or two despite only taking a few seconds in the video.
 
 ## 1. Install the necessary tools
 
